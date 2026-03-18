@@ -9,7 +9,7 @@ I build things from the ground up: simulation codes, ML pipelines, and the infra
 ## What I work on
 
 **Scientific ML**
-Applying ML to inverse problems in astrophysical plasma physics.
+Applying ML to inverse problems in astrophysical plasma physics. Current project: using classical ML and Bayesian inference on the Fermi-LAT 4LAC-DR2 blazar catalog to recover physical jet parameters from observational data, revisiting and extending work from [Rueda-Becerril et al. 2021](https://doi.org/10.1093/mnras/staa3925).
 
 **HPC simulation software**
 Author of [Paramo](https://github.com/altjerue/paramo), a Fortran numerical code for particle acceleration and radiation in relativistic plasma jets. Contributor to [Tleco](https://github.com/zkdavis/Tleco), its modern Rust/Python successor.
