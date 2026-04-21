@@ -21,10 +21,10 @@ Main developer of [WindsOfChange](https://github.com/UW-ForestMycobiomeLab/Winds
 
 ## Technical stack
 
-**Languages:** Python, C++, Fortran, R, SQL
-**Scientific computing:** NumPy, SciPy, JAX, Astropy, Pandas
-**ML:** scikit-learn, PyTorch, XGBoost
-**HPC:** OpenMP, MPI, SLURM
+**Languages:** Python, C++, Fortran, R, SQL\
+**Scientific computing:** NumPy, SciPy, JAX, Astropy, Pandas\
+**ML:** scikit-learn, PyTorch, XGBoost\
+**HPC:** OpenMP, MPI, SLURM\
 **Tools:** Git, Docker, $\LaTeX$
 
 ---
