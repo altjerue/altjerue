@@ -14,7 +14,7 @@ I build things from the ground up: simulation codes, ML pipelines, and the infra
 **HPC simulation software**
 Author of [Paramo](https://github.com/altjerue/paramo), a Fortran numerical code for particle acceleration and radiation in relativistic plasma jets. Contributor to [Tleco](https://github.com/zkdavis/Tleco), its modern Rust/Python successor.
 
-**Atmospheric dispersion modeling**
+**Spore dispersion modeling on hilly terrains**
 Main developer of [WindsOfChange](https://github.com/UW-ForestMycobiomeLab/WindsOfChange), an R/C++ Lagrangian particle dispersion library for forest canopy environments, with OpenMP parallelization.
 
 ---
